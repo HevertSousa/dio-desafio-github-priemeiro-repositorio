@@ -1,6 +1,7 @@
-# Desafio de Projeto sobre GIT/GITHUB
+# Desafio de Projetos OrangeTech
 
-Repositório criado para o Desafio de Projeto
+Repositório criado para os Desafios dos Projetos da orangetech.
 
 ## Links Úteis
+
 [Sintaxe Básica Markdown](https://markdown.net.br/sintaxe-basica/)
