@@ -1,6 +1,6 @@
-# Repositório do Desafio GIT/GITHUB
+# Desafio de Projeto sobre GIT/GITHUB
 
-Desafio de projeto sobre git/github
+Repositório criado para o Desafio de Projeto
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://markdown.net.br/sintaxe-basica/)
